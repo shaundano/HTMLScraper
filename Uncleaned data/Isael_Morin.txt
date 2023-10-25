@@ -1,0 +1,2622 @@
+<ul class="display-flex flex-wrap list-style-none justify-center">
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        
+      <div class="full-height">
+  <div class="feed-shared-update-v2 feed-shared-update-v2--minimal-padding full-height relative
+      
+      
+      feed-shared-update-v2--e2e
+      
+      artdeco-card
+      
+      
+      " id="ember14426" data-urn="urn:li:activity:7122914745493401600">
+      <div>
+    
+      <div role="status">
+<!---->      </div>
+        
+          <h2 class="visually-hidden">
+              Feed post
+          </h2>
+            <div class="update-components-actor display-flex
+    update-components-actor--with-control-menu
+    
+    
+    ">
+    <a class="app-aware-link  relative display-flex" aria-label="See Isaël Morin’s profile video" target="_self" href="https://www.linkedin.com/in/isaelmorin/profile-video/view/urn%3Ali%3Afsd%5Fstory%3Aurn%3Ali%3Astory%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+      <div class="update-components-actor__image relative">
+        <span class="js-update-components-actor__avatar">
+          
+    <div class="ivm-image-view-model    update-components-actor__avatar">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          
+      <div class="decorated-entity-image__container
+          decorated-entity-image__image--medium
+          ivm-view-attr__img--centered EntityPhoto-circle-3  update-components-actor__avatar-image">
+        <div class="decorated-entity-image__image--medium">
+          
+      <div class="decorated-entity-image__ring
+          decorated-entity-image__ring--medium
+          ">
+        
+            <img src="https://media.licdn.com/dms/image/D4E03AQFI0Upo0kJTIw/profile-displayphoto-shrink_100_100/0/1684075753158?e=1703721600&amp;v=beta&amp;t=ddDwJLJy1OuKno-GwwlQe8pZUV-ZgYsYBSsPplL0DpA" loading="lazy" alt="Isaël Morin" id="ember14427" class="decorated-entity-image__image decorated-entity-image__image--has-ring decorated-entity-image__image--medium evi-image lazy-image ember-view">
+          
+      </div>
+  
+
+<!---->        </div>
+      </div>
+  
+    </div>
+  
+          </div>
+  
+        </span>
+      </div>
+    </a>
+
+  <div class="update-components-actor__container
+      
+      display-flex flex-grow-1">
+<!---->    <div class="update-components-actor__meta relative">
+      <a class="app-aware-link  update-components-actor__meta-link" aria-label="View: Isaël Morin • 3rd+ Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈" target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+        <span class="update-components-actor__title
+            ">
+          <span class="update-components-actor__name t-14 t-bold hoverable-link-text
+              t-black">
+              <span aria-hidden="true"><span dir="ltr">Isaël Morin</span></span><span class="visually-hidden">Isaël Morin</span>
+          </span>
+            <span class="update-components-actor__supplementary-actor-info
+                t-black--light
+                t-14 t-normal
+                ml1
+                ">
+                <span aria-hidden="true"> • 3rd+</span><span class="visually-hidden"> • 3rd+</span>
+            </span>
+        </span>
+
+          <span class="update-components-actor__description
+              t-black--light
+              
+              t-12 t-normal
+              ">
+              <span aria-hidden="true">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span><span class="visually-hidden">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span>
+          </span>
+
+      </a>
+<!---->        <a class="app-aware-link  update-components-actor__sub-description-link" aria-label="6h •   " target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+          <span class="update-components-actor__sub-description
+              t-black--light
+              t-12 t-normal
+              ">
+                <div class="update-components-text-view break-words ">
+  <span><span aria-hidden="true">6h • <li-icon aria-hidden="true" type="globe-americas" class="v-align-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 1a7 7 0 107 7 7 7 0 00-7-7zM3 8a5 5 0 011-3l.55.55A1.5 1.5 0 015 6.62v1.07a.75.75 0 00.22.53l.56.56a.75.75 0 00.53.22H7v.69a.75.75 0 00.22.53l.56.56a.75.75 0 01.22.53V13a5 5 0 01-5-5zm6.24 4.83l2-2.46a.75.75 0 00.09-.8l-.58-1.16A.76.76 0 0010 8H7v-.19a.51.51 0 01.28-.45l.38-.19a.74.74 0 01.68 0L9 7.5l.38-.7a1 1 0 00.12-.48v-.85a.78.78 0 01.21-.53l1.07-1.09a5 5 0 01-1.54 9z"></path>
+    </svg></li-icon> </span><span class="visually-hidden">6h •   </span></span>
+</div>
+          </span>
+        </a>
+    </div>
+  </div>
+
+    <button class="follow   update-components-actor__follow-button update-components-update-v2__follow-button artdeco-button
+        
+        update-components-update-v2__cta-button--next-to-control-menu
+        artdeco-button--tertiary
+        
+        
+        " aria-label="Follow" aria-live="polite" type="button">
+      <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+    <span aria-hidden="true">Follow</span>
+</button>
+
+<!----></div>
+              
+    <div class="feed-shared-control-menu display-flex
+        feed-shared-update-v2__control-menu absolute text-align-right
+        
+        ">
+<!---->
+        <div id="ember14429" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+          <button aria-expanded="false" tabindex="0" id="ember14430" class="feed-shared-control-menu__trigger artdeco-button artdeco-button--tertiary artdeco-button--muted artdeco-button--1 artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button">
+                <li-icon type="overflow-web-ios" class="artdeco-button__icon" size="medium" role="img" aria-label="Open control menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+    </svg></li-icon>
+                      
+<!----></button>
+          <div tabindex="-1" aria-hidden="true" id="ember14431" class="feed-shared-control-menu__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" aria-label="Control Menu Options"><!----></div>
+        </div>
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->    </div>
+  
+          
+<!---->
+          <!---->
+
+<!----><!---->                  <div class="feed-shared-update-v2__description-wrapper
+    
+     mr2" style="" tabindex="-1">
+      <div class="feed-shared-inline-show-more-text
+    feed-shared-update-v2__description feed-shared-inline-show-more-text--minimal-padding
+    
+    
+    
+    
+    " tabindex="-1">
+  
+        <div class="update-components-text relative update-components-update-v2__commentary " dir="ltr">
+<!---->
+  <span class="break-words
+      ">
+<!---->      <span><span dir="ltr">Taylor Swift vient de briser Hollywood. 😨<br>Voici 3 raisons pourquoi tu devrais t’y intéresser!<br><br>Ce post est long mais en vaut la peine.<br><br><br>👉 Comment Taylor a pu briser Hollywood si elle ne fait que chanter?<br><br>Jusqu’aujourd’hui, le monde du cinéma fonctionnait en 3 grosses étapes.<br><br>→ 1. Les studios d’Hollywood décident de produire un film. Ils financent la production et en font le marketing.<br><br>→ 2. Les studios vendent ensuite les droits à l’entreprise AMC pour distribuer le film dans les cinémas.<br><br>→ 3. Les cinémas peuvent ensuite faire jouer le film à des dates précises.<br><br><br>Les studios d’Hollywood ont donc tout le pouvoir et la majorité des profits (77%).<br><br>En plus de ça, ils se foutaient pas mal d'AMC et des cinémas.<br><br>Les studios ne les ont même pas averti quand ils ont décidé de sortir leurs films sur des plateformes télé comme Disney Plus pendant la pandémie. Leur faisant perdre des millions dans une des pires périodes pour le cinéma.<br><br>En gros, les studios agissent comme des boss toxiques narcissiques.🤮<br><br><br>👉 Quesser que Taylor Swift vient faire dans tout ça?<br><br>Ayant la plus grosse tournée musicale jamais créée entre les mains, Taylor a l’idée d’en faire un film.<br><br>Pourquoi?<br><br>Pour permettre à son public qui n’a pas pu s’offrir de places à sa tournée d’expérimenter quand même son spectacle.<br><br>Les billets pouvant monter jusqu’à 2000$US, pas mal certain qu’il y en avait des Swifties qui ne pouvaient pas s’offrir ça.🤷🏼<br><br>Au lieu de passer par les studios d’Hollywood, Taylor leur lève son doigt d'honneur et contacte directement AMC.<br><br>“Salut AMC! Au lieu de perdre la majorité des revenus aux studios, pourquoi ne pas faire un deal ensemble pour distribuer mon film à travers le monde? Anyway, j’ai les 20 millions pour le produire et j’ai juste à faire un post Instagram next week pour l’annoncer. Down?”<br><br>👇<br><br>AMC accepte et partage 57% des profits avec elle.<br>Les cinémas recevront 43%.<br>Les studios d’Hollywood: 0%.<br><br>Taylor finance la production.&nbsp;<br>(Son show allait être filmé anyway.)<br><br>Elle fait un seul post Instagram le 26 septembre annonçant l’arrivée de sa tournée dans les cinémas le 13 octobre.<br><br>Hier, on annonçait que son film avait atteint +130 millions de $ aux USA seulement. Ce qui en fait un des weekends d’ouvertures les plus profitables de l’année avec Barbie et Mario Bros.<br><br><br>👉 Les bénéfices de tout ça?<br><br>Bien que Taylor ait permis à AMC et aux cinémas d’obtenir enfin des revenus comparables à la pré-pandémie avec son film, ce n’est pas qu’une question d’argent.<br><br>Elle ouvre la porte à une nouvelle manière de fonctionner.<br><br>Si un•e producteur peut 1. financer son propre film et 2. en faire le marketing, c’est aujourd’hui possible de passer directement par le distributeur.<br><br>Et bye bye aux boss toxiques narcissiques!✌️<br><br>Je te partage 3 moyens de t'inspirer de sa stratégie pour ton entreprise en commentaire!👇<br><br>P.S.: À voir comment Taylor est une mastermind business, je vais certainement devenir un Swiftie d’ici les prochains mois.😅<br><br><a href="https://www.linkedin.com/feed/hashtag/?keywords=linkedin&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7122914745493401600" data-attribute-index="0">#LinkedIn</a></span></span>
+  </span>
+</div>
+            <button role="button" class="feed-shared-inline-show-more-text__see-more-less-toggle see-more t-14 t-black--light t-normal hoverable-link-text" aria-label="see more, visually reveals content which is already detected by screen readers" type="button">
+        <span class="feed-shared-inline-show-more-text__see-more-text">…see more</span>
+      </button>
+<!----></div>
+<!---->
+    
+    
+    <div>
+      
+        
+    <div class="feed-shared-see-translation-button">
+      <button id="ember14432" class="artdeco-button artdeco-button--1 artdeco-button--tertiary ember-view"><!---->
+<span class="artdeco-button__text">
+    See translation
+</span></button>
+
+<!---->    </div>
+  
+    
+    </div>
+  
+</div>
+                  <div class="update-components-image update-components-image--single-image feed-shared-update-v2__content">
+  <div class="relative">
+    <div class="update-components-image__container" style="padding-top: 125%;">
+            <button class="update-components-image__image-link" type="button">
+                <span class="visually-hidden">
+                  Activate to view larger image,
+                </span>
+              
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          <img width="600" src="https://media.licdn.com/dms/image/D4E22AQHBaDlDng9ebA/feedshare-shrink_2048_1536/0/1698201099941?e=1701302400&amp;v=beta&amp;t=lBg6K6EJ9cIUMlxkVRrql0Od8G1rbfdEMyqocXckiik" loading="lazy" height="750" alt="Image preview" id="ember14434" class="ivm-view-attr__img--centered  update-components-image__image update-components-image__image--constrained evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            </button>
+<!---->          <!---->    </div>
+    <span class="visually-hidden" id="update-components-image-ember14433" aria-hidden="true">
+          Activate to view larger image,
+    </span>
+
+<!---->
+<!---->  </div>
+
+<!---->
+<!----></div>
+<!---->
+<!---->
+              <!---->
+              <!---->
+
+          <!---->
+
+<!---->
+              <div id="ember14435" class="social-details-social-activity update-v2-social-activity
+    
+    ">
+  
+    <ul class="social-details-social-counts
+    
+    
+    
+    
+     social-details-social-counts--simplified-with-bottom-border
+        ">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--right-aligned
+        ">
+      <button aria-label="67 reactions on Isaël Morin’s post" class="t-black--light display-flex align-items-center social-details-social-counts__count-value
+          t-12
+          hoverable-link-text
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/8ekq8gho1ruaf8i7f86vd1ftt" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-INTEREST data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/lhxmwiwoag9qepsh4nc28zus" alt="insightful" data-test-reactions-icon-type="INTEREST" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/cpho5fghnpme8epox8rdcds22" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="light">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">
+67          </span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--left-aligned
+        ">
+        <button aria-label="49 comments on Isaël Morin’s post" class="t-black--light social-details-social-counts__count-value
+            t-12
+            hoverable-link-text
+            " type="button">
+          <span aria-hidden="true">
+              49 comments
+          </span>
+        </button>
+    </li>
+
+<!---->
+<!----></ul>
+  <div>
+  <div id="ember14436" class="ember-view"><!----></div>
+</div>
+
+<!---->
+<!---->
+    <div class="feed-shared-social-actions feed-shared-social-action-bar social-detail-base-social-actions
+    
+    feed-shared-social-action-bar--full-width
+    feed-shared-social-action-bar--has-identity-toggle
+    
+    
+    
+    feed-shared-social-action-bar--has-social-counts
+    
+    ">
+  
+          <span class="feed-shared-social-action-bar__action-button">
+  <button aria-label="Open menu for switching identity when interacting with this post" id="ember14437" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--3 artdeco-button--tertiary ember-view align-items-center social-actions-button
+       content-admin-identity-toggle-button">    <li-icon aria-hidden="true" type="caret" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 11L3 6h10z" fill-rule="evenodd"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+    <div>
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" loading="lazy" alt="Photo of Shaun Dano" id="ember14438" class="EntityPhoto-circle-0 evi-image lazy-image ghost-person ember-view">
+<!---->    </div>
+  
+</span></button>
+
+<!----></span>
+          
+    <span class="reactions-react-button feed-shared-social-action-bar__action-button">
+<!---->
+      <button aria-pressed="false" aria-label="React Like to Isaël Morin’s post" id="ember14439" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button react-button__trigger
+          "><!---->
+<span class="artdeco-button__text">
+    
+        <div class="flex-wrap justify-center
+            artdeco-button__text align-items-center">
+              <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="thumbs-up-outline-medium">
+<!---->    
+
+    <use href="#thumbs-up-outline-medium" width="24" height="24"></use>
+</svg>
+
+            
+            <span aria-hidden="true" class="artdeco-button__text react-button__text social-action-button__text
+                ">
+              Like
+            </span>
+        </div>
+      
+</span></button>
+
+      <button aria-label="Open reactions menu" aria-expanded="false" id="ember14440" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view reactions-menu__trigger"><!---->
+<span class="artdeco-button__text">
+    
+        <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="caret-small">
+<!---->    
+
+    <use href="#caret-small" width="16" height="16"></use>
+</svg>
+
+      
+</span></button>
+    </span>
+  
+          <span tabindex="-1" id="ember14441" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view feed-shared-social-action-bar__action-button">
+    <div>
+      <button role="button" aria-label="Comment on Isaël Morin’s post" id="ember14442" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button comment-button flex-wrap ">    <li-icon aria-hidden="true" type="comment" class="artdeco-button__icon" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M7 9h10v1H7zm0 4h7v-1H7zm16-2a6.78 6.78 0 01-2.84 5.61L12 22v-4H8A7 7 0 018 4h8a7 7 0 017 7zm-2 0a5 5 0 00-5-5H8a5 5 0 000 10h6v2.28L19 15a4.79 4.79 0 002-4z"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    Comment
+</span></button>
+    </div>
+  <div id="artdeco-gen-1006" class="ember-view"><div id="ember14444" class="ember-view"></div></div>
+</span>
+          <div id="ember14445" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view feed-shared-social-action-bar__action-button">
+  <span tabindex="-1" id="ember14447" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view flex-1">
+    <button aria-expanded="false" aria-label="" id="ember14448" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view 
+        artdeco-button social-actions-button social-reshare-button flex-wrap
+        artdeco-button--muted artdeco-button--4 artdeco-button--tertiary" type="button" tabindex="0">
+        <li-icon aria-hidden="true" class="artdeco-button__icon" type="repost">
+          <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="repost-medium">
+<!---->    
+
+    <use href="#repost-medium" width="24" height="24"></use>
+</svg>
+
+        </li-icon>
+        <span class="artdeco-button__text social-action-button__text">Repost</span>
+    
+<!----></button>
+
+    <div tabindex="-1" aria-hidden="true" id="ember14449" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view social-reshare-button__share-dropdown-content"><!----></div>
+
+    <div id="artdeco-gen-1007" class="ember-view"><div id="ember14451" class="ember-view"></div></div>
+  </span>
+    <div>
+  
+      
+<!---->  
+  
+</div>
+
+<!---->
+<!----></div>
+          <div class="feed-shared-social-action-bar__action-button">
+            <span tabindex="-1" id="ember14452" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view">
+              <button class="social-actions-button send-privately-button artdeco-button artdeco-button--4 artdeco-button--tertiary flex-wrap
+    
+    artdeco-button--muted send-privately-button" aria-label="Send in a private message" type="button">
+    <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="send-privately-medium" class="rtl-flip">
+<!---->    
+
+    <use href="#send-privately-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="artdeco-button__text social-action-button__text">Send</span>
+</button>
+              <div id="artdeco-gen-1008" class="ember-view"><div id="ember14454" class="ember-view"></div></div>
+            </span>
+          </div>
+    
+</div>
+<!---->
+  
+<!---->
+
+<!---->
+<!---->
+  <span aria-live="polite" role="alert" class="visually-hidden" aria-label=""></span>
+
+<!---->
+    
+<!---->                
+
+<!---->
+    <div class="feed-shared-update-v2__comments-container display-flex flex-column
+        ">
+<!----><!---->    </div>
+
+</div>
+
+<!---->
+            <!---->
+<!---->
+<!---->
+
+<!---->
+      
+      <div id="ember14456" class="ember-view"><!----></div>
+
+<!---->
+    
+  </div>
+
+  </div>
+</div>
+    
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        
+      <div class="full-height">
+  <div class="feed-shared-update-v2 feed-shared-update-v2--minimal-padding full-height relative
+      
+      
+      
+      
+      artdeco-card
+      
+      
+      " id="ember14458" data-urn="urn:li:activity:7117561888917307392">
+      <div>
+    
+      <div role="status">
+<!---->      </div>
+        
+          <h2 class="visually-hidden">
+              Feed post
+          </h2>
+            <div class="update-components-actor display-flex
+    update-components-actor--with-control-menu
+    
+    
+    ">
+    <a class="app-aware-link  relative display-flex" aria-label="See Isaël Morin’s profile video" target="_self" href="https://www.linkedin.com/in/isaelmorin/profile-video/view/urn%3Ali%3Afsd%5Fstory%3Aurn%3Ali%3Astory%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+      <div class="update-components-actor__image relative">
+        <span class="js-update-components-actor__avatar">
+          
+    <div class="ivm-image-view-model    update-components-actor__avatar">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          
+      <div class="decorated-entity-image__container
+          decorated-entity-image__image--medium
+          ivm-view-attr__img--centered EntityPhoto-circle-3  update-components-actor__avatar-image">
+        <div class="decorated-entity-image__image--medium">
+          
+      <div class="decorated-entity-image__ring
+          decorated-entity-image__ring--medium
+          ">
+        
+            <img src="https://media.licdn.com/dms/image/D4E03AQFI0Upo0kJTIw/profile-displayphoto-shrink_100_100/0/1684075753158?e=1703721600&amp;v=beta&amp;t=ddDwJLJy1OuKno-GwwlQe8pZUV-ZgYsYBSsPplL0DpA" loading="lazy" alt="Isaël Morin" id="ember14459" class="decorated-entity-image__image decorated-entity-image__image--has-ring decorated-entity-image__image--medium evi-image lazy-image ember-view">
+          
+      </div>
+  
+
+<!---->        </div>
+      </div>
+  
+    </div>
+  
+          </div>
+  
+        </span>
+      </div>
+    </a>
+
+  <div class="update-components-actor__container
+      
+      display-flex flex-grow-1">
+<!---->    <div class="update-components-actor__meta relative">
+      <a class="app-aware-link  update-components-actor__meta-link" aria-label="View: Isaël Morin • 3rd+ Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈" target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+        <span class="update-components-actor__title
+            ">
+          <span class="update-components-actor__name t-14 t-bold hoverable-link-text
+              t-black">
+              <span aria-hidden="true"><span dir="ltr">Isaël Morin</span></span><span class="visually-hidden">Isaël Morin</span>
+          </span>
+            <span class="update-components-actor__supplementary-actor-info
+                t-black--light
+                t-14 t-normal
+                ml1
+                ">
+                <span aria-hidden="true"> • 3rd+</span><span class="visually-hidden"> • 3rd+</span>
+            </span>
+        </span>
+
+          <span class="update-components-actor__description
+              t-black--light
+              
+              t-12 t-normal
+              ">
+              <span aria-hidden="true">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span><span class="visually-hidden">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span>
+          </span>
+
+      </a>
+<!---->        <a class="app-aware-link  update-components-actor__sub-description-link" aria-label="2w • Edited •   " target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+          <span class="update-components-actor__sub-description
+              t-black--light
+              t-12 t-normal
+              ">
+                <div class="update-components-text-view break-words ">
+  <span><span aria-hidden="true">2w • Edited • <li-icon aria-hidden="true" type="globe-americas" class="v-align-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 1a7 7 0 107 7 7 7 0 00-7-7zM3 8a5 5 0 011-3l.55.55A1.5 1.5 0 015 6.62v1.07a.75.75 0 00.22.53l.56.56a.75.75 0 00.53.22H7v.69a.75.75 0 00.22.53l.56.56a.75.75 0 01.22.53V13a5 5 0 01-5-5zm6.24 4.83l2-2.46a.75.75 0 00.09-.8l-.58-1.16A.76.76 0 0010 8H7v-.19a.51.51 0 01.28-.45l.38-.19a.74.74 0 01.68 0L9 7.5l.38-.7a1 1 0 00.12-.48v-.85a.78.78 0 01.21-.53l1.07-1.09a5 5 0 01-1.54 9z"></path>
+    </svg></li-icon> </span><span class="visually-hidden">2w • Edited •   </span></span>
+</div>
+          </span>
+        </a>
+    </div>
+  </div>
+
+    <button class="follow   update-components-actor__follow-button update-components-update-v2__follow-button artdeco-button
+        
+        update-components-update-v2__cta-button--next-to-control-menu
+        artdeco-button--tertiary
+        
+        
+        " aria-label="Follow" aria-live="polite" type="button">
+      <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+    <span aria-hidden="true">Follow</span>
+</button>
+
+<!----></div>
+              
+    <div class="feed-shared-control-menu display-flex
+        feed-shared-update-v2__control-menu absolute text-align-right
+        
+        ">
+<!---->
+        <div id="ember14461" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+          <button aria-expanded="false" tabindex="0" id="ember14462" class="feed-shared-control-menu__trigger artdeco-button artdeco-button--tertiary artdeco-button--muted artdeco-button--1 artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button">
+                <li-icon type="overflow-web-ios" class="artdeco-button__icon" size="medium" role="img" aria-label="Open control menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+    </svg></li-icon>
+                      
+<!----></button>
+          <div tabindex="-1" aria-hidden="true" id="ember14463" class="feed-shared-control-menu__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" aria-label="Control Menu Options"><!----></div>
+        </div>
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->    </div>
+  
+          
+<!---->
+          <!---->
+
+<!----><!---->                  <div class="feed-shared-update-v2__description-wrapper
+    
+     mr2" style="" tabindex="-1">
+      <div class="feed-shared-inline-show-more-text
+    feed-shared-update-v2__description feed-shared-inline-show-more-text--minimal-padding
+    
+    
+    
+    
+    " tabindex="-1">
+  
+        <div class="update-components-text relative update-components-update-v2__commentary " dir="ltr">
+<!---->
+  <span class="break-words
+      ">
+<!---->      <span dir="ltr">Comment j’ai transformé ma peur de bégayer en force pour mon branding?🤯<br><br>Tu as une caractéristique que tu:<br><br>👉 Considères comme une faiblesse pour toi et ton entreprise?<br>👉 Essaies de cacher à ta communauté par peur de te faire juger?<br>👉 Veux faire disparaître tellement elle te nuit?<br><br>Le mardi, 24 octobre prochain à midi, je t’expliquerai comment transformer cette caractéristique pour qu’elle devienne:<br><br>👉 Une force pour ton branding personnel et professionnel<br>👉 Quelque chose que tu pourrais mettre de l’avant pour briller<br>👉 Un symbole puissant qui représente ton WHY <br><br>Chaque jour, je rencontre des professionnel•le•s qui ont peur de montrer une partie d’eux et d’elles. Ce qu’ils et elles ne savent pas, c’est que cette partie pourrait bien devenir leur plus grande force!<br><br>L’objectif de ce LinkedIn Live sera de te montrer les étapes que j’ai traversées pour transformer ma peur de bégayer en force. Et comment tu peux le faire pour ce que tu considères comme une faiblesse.<br><br>Alors, tu seras avec nous pour l'heure du lunch ?😁<br><br>Le Live sera disponible en rediffusion!<br><br>Qui suis-je?<br>🙋‍♂️ Isaël Morin - Coach LinkedIn &amp; Business pour entrepreneur•e•s et dirigeant•e•s en B2B<br><br>Je crois que le monde serait meilleur si on prenait tous et toutes un peu plus notre place dans notre vie, et en ligne.<br><br>Depuis plus de 8 ans, j'accompagne les entrepreneur•e•s et dirigeant•e•s à prendre confiance, créer un branding inoubliable et communiquer en ligne de manière efficace, plus spécifiquement sur LinkedIn.<br><br>Pour moi, rien n'est plus beau que de voir mes client•e•s affronter leurs peurs et prendre leur place la tête haute. Rien.<br><br>Hâte de te voir vendredi midi!✌️<br></span>
+  </span>
+</div>
+            <button role="button" class="feed-shared-inline-show-more-text__see-more-less-toggle see-more t-14 t-black--light t-normal hoverable-link-text" aria-label="see more, visually reveals content which is already detected by screen readers" type="button">
+        <span class="feed-shared-inline-show-more-text__see-more-text">…see more</span>
+      </button>
+<!----></div>
+<!---->
+    
+    
+    <div>
+      
+        
+    <div class="feed-shared-see-translation-button">
+      <button id="ember14464" class="artdeco-button artdeco-button--1 artdeco-button--tertiary ember-view"><!---->
+<span class="artdeco-button__text">
+    See translation
+</span></button>
+
+<!---->    </div>
+  
+    
+    </div>
+  
+</div>
+                  <div class="update-components-linkedin-video
+    feed-shared-update-v2__content
+    
+    
+    ">
+      <div class="update-components-linkedin-video__container">
+<!---->          <div class="relative">
+            <a href="/video/event/urn:li:ugcPost:7117561887935877120/?isInternal=true" id="ember14465" class="ember-view update-components-linkedin-video__live-external-link update-components-linkedin-video__live-external-link--was-live pt3" aria-label="3 Étapes Pour Transformer Une Faiblesse En Force Dans Ton Branding">
+<!---->              <span class="update-components-linkedin-video__live-external-link-text t-sans t-14 t-white t-bold full-width text-align-center">
+                <div class="update-components-linkedin-video__live-external-link-see-more mb1 pv1 ph2">
+                  See more
+                </div>
+              </span>
+            </a>
+            
+    <div class="video-live-feed full-height full-width">
+      
+    <div class="video-live">
+      
+          
+    <div class="full-width
+        live-video-loader video-s-loader live-video-loader
+        video-s-loader--video-active
+        video-s-loader--video-loading">
+      <div data-player-id="ember14467" class="media-player video-s-loader__video-container">
+
+  
+        
+        <!---->
+        <!---->
+        <!---->
+<!---->          <!---->
+          <!---->
+          <!---->
+        <!---->
+
+            <!---->
+
+
+      
+
+  <div data-vjs-player="" class="ember-view video-js media-player__player vjs-paused vjs-fluid media-player--use-mercado vjs-controls-enabled vjs-workinghover vjs-v7 vjs-user-active vjs-layout-medium" id="ember14469" tabindex="-1" lang="en" translate="no" role="region" aria-label="Video player"><video id="ember14469_html5_api" class="vjs-tech" tabindex="-1" preload="metadata" muted="muted" poster="https://media.licdn.com/dms/image/D4E24AQF3qvJ1E4CcQg/feedshare-live-thumbnail_high/0/1698163319456?e=1698865200&amp;v=beta&amp;t=GLuLeOQsg8mUWTftI7EaCV1RbvfZihCjKG3Mojs8tEM" src="blob:https://www.linkedin.com/1d97727d-5824-4f26-bcdc-796fe493a4b6"></video>
+      
+  <div class="vjs-player-banner vjs-hide-on-inactivity" id="ember14468">    
+    
+            
+              
+    <div>
+
+<!---->
+<!---->    </div>
+  
+            
+          
+  
+</div><div class="vjs-poster" tabindex="-1" aria-disabled="false" style="background-image: url(&quot;https://media.licdn.com/dms/image/D4E24AQF3qvJ1E4CcQg/feedshare-live-thumbnail_high/0/1698163319456?e=1698865200&amp;v=beta&amp;t=GLuLeOQsg8mUWTftI7EaCV1RbvfZihCjKG3Mojs8tEM&quot;);"></div><button class="vjs-big-play-button" type="button" aria-disabled="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Play</span></button><div class="vjs-loading-spinner" dir="ltr"><span class="vjs-control-text">Media is loading</span></div><div class="vjs-control-bar vjs-control-bar--tier" dir="ltr"><div class="vjs-progress-control vjs-control"><div tabindex="0" class="vjs-progress-holder vjs-slider vjs-slider-horizontal" role="slider" aria-valuenow="0.00" aria-valuemin="0" aria-valuemax="100" aria-label="Playback progress" aria-valuetext="00:00 of 57:32"><div class="vjs-load-progress" style="width: 0.06%;"><span class="vjs-control-text"><span>Loaded</span>: <span class="vjs-control-text-loaded-percentage">0.06%</span></span><div data-start="0.015854" data-end="1.999853" style="left: 0.79%; width: 99.21%;"></div></div><div class="vjs-mouse-display"><div class="vjs-time-tooltip" aria-hidden="true"></div></div><div class="vjs-play-progress vjs-slider-bar" aria-hidden="true" style="width: 0%;"><div class="vjs-time-tooltip" aria-hidden="true" style="right: 0px;">00:00</div></div></div></div><button class="vjs-play-control vjs-control vjs-button" type="button" aria-disabled="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Play</span><div class="vjs-tooltip-container vjs-tooltip-left"><div class="vjs-tooltip" aria-hidden="true" role="tooltip">Play</div></div></button><button class="vjs-control vjs-button vjs-back-to-start-button" type="button" aria-disabled="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Back to start of video</span><div class="vjs-tooltip-container vjs-tooltip-left"><div class="vjs-tooltip" aria-hidden="true" role="tooltip">Back to start</div></div></button><button class="vjs-control vjs-button vjs-skip-back-button" type="button" aria-disabled="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Skip back 10 seconds</span><div class="vjs-tooltip-container vjs-tooltip-left"><div class="vjs-tooltip" aria-hidden="true" role="tooltip">Skip back</div></div></button><button class="vjs-control vjs-button vjs-skip-ahead-button" type="button" aria-disabled="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Skip ahead 10 seconds</span><div class="vjs-tooltip-container vjs-tooltip-left"><div class="vjs-tooltip" aria-hidden="true" role="tooltip">Skip ahead</div></div></button><div class="vjs-live-control vjs-control vjs-hidden"><div class="vjs-live-display" aria-live="off"><span class="vjs-control-text">Stream Type&nbsp;</span>LIVE</div></div><div class="vjs-time-display vjs-control" translate="no"><div class="vjs-current-time vjs-time-control vjs-control"><span class="vjs-control-text" role="presentation">Current time&nbsp;</span><span class="vjs-current-time-display" aria-live="off" role="presentation">0:00</span></div><div class="vjs-time-control vjs-time-divider" aria-hidden="true"><div><span>/</span></div></div><div class="vjs-duration vjs-time-control vjs-control"><span class="vjs-control-text" role="presentation">Duration&nbsp;</span><span class="vjs-duration-display" aria-live="off" role="presentation">57:32</span></div></div><div class="vjs-custom-control-spacer vjs-spacer ">&nbsp;</div><div class="vjs-playback-rate vjs-menu-button vjs-menu-button-popup vjs-control vjs-button"><div class="vjs-playback-rate-value" id="vjs-playback-rate-value-label-ember14469_component_36535" aria-hidden="true">1x</div><button class="vjs-playback-rate vjs-menu-button vjs-menu-button-popup vjs-button" type="button" aria-disabled="false" aria-haspopup="true" aria-expanded="false" aria-describedby="vjs-playback-rate-value-label-ember14469_component_36535"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Playback speed</span><div class="vjs-tooltip-container vjs-tooltip-right"><div class="vjs-tooltip" aria-hidden="true" role="tooltip">Playback speed</div></div></button><div class="vjs-menu"><ul class="vjs-menu-content" role="menu" tabindex="-1" style="max-height: 49px;"><li class="vjs-menu-item vjs-menu-item-checkable" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="false"><span class="vjs-icon-placeholder"></span><span class="vjs-menu-item-text">0.5x</span><span class="vjs-control-text" aria-live="off"></span></li><li class="vjs-menu-item vjs-menu-item-checkable" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="false"><span class="vjs-icon-placeholder"></span><span class="vjs-menu-item-text">0.75x</span><span class="vjs-control-text" aria-live="off"></span></li><li class="vjs-menu-item vjs-selected vjs-menu-item-checkable" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="true"><span class="vjs-icon-placeholder"></span><span class="vjs-menu-item-text">1x</span><span class="vjs-control-text" aria-live="off">, selected</span></li><li class="vjs-menu-item vjs-menu-item-checkable" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="false"><span class="vjs-icon-placeholder"></span><span class="vjs-menu-item-text">1.25x</span><span class="vjs-control-text" aria-live="off"></span></li><li class="vjs-menu-item vjs-menu-item-checkable" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="false"><span class="vjs-icon-placeholder"></span><span class="vjs-menu-item-text">1.5x</span><span class="vjs-control-text" aria-live="off"></span></li><li class="vjs-menu-item vjs-menu-item-checkable" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="false"><span class="vjs-icon-placeholder"></span><span class="vjs-menu-item-text">1.75x</span><span class="vjs-control-text" aria-live="off"></span></li><li class="vjs-menu-item vjs-menu-item-checkable" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="false"><span class="vjs-icon-placeholder"></span><span class="vjs-menu-item-text">2x</span><span class="vjs-control-text" aria-live="off"></span></li></ul></div></div><div class="vjs-menu-button vjs-menu-button-popup vjs-control vjs-button vjs-hidden vjs-captions-menu-toggle"><button class="vjs-menu-button vjs-menu-button-popup vjs-button" type="button" aria-disabled="false" aria-haspopup="true" aria-expanded="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Open Captions Menu</span></button><div class="vjs-tooltip-container vjs-tooltip-right"><div class="vjs-tooltip" aria-hidden="true" role="tooltip">Captions</div></div><div class="vjs-menu"><ul class="vjs-menu-content" role="menu" tabindex="-1" style="max-height: 49px;"><li class="vjs-menu-item vjs-selected" tabindex="-1" role="menuitemradio" aria-disabled="false" aria-checked="true"><span class="vjs-menu-item-text">Off</span><span class="vjs-control-text" aria-live="polite">, selected</span></li></ul></div></div><div class="vjs-volume-panel vjs-control vjs-volume-panel-vertical"><button class="vjs-mute-control vjs-control vjs-button vjs-vol-0" type="button" aria-disabled="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Unmute</span></button><div class="vjs-volume-control vjs-control vjs-volume-vertical"><div tabindex="0" class="vjs-volume-bar vjs-slider-bar vjs-slider vjs-slider-vertical" role="slider" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" aria-label="Volume" aria-live="polite" aria-valuetext="0%"><div class="vjs-mouse-display"><div class="vjs-volume-tooltip" aria-hidden="true"></div></div><div class="vjs-volume-level" style="height: 0%;"><span class="vjs-control-text"></span></div></div></div></div><button class="vjs-fullscreen-control vjs-control vjs-button" type="button" aria-disabled="false"><span class="vjs-icon-placeholder" aria-hidden="true"></span><span class="vjs-control-text" aria-live="off">Turn fullscreen on</span><div class="vjs-tooltip-container vjs-tooltip-right"><div class="vjs-tooltip" aria-hidden="true" role="tooltip">Fullscreen</div></div></button></div><div class="vjs-error-display vjs-modal-dialog vjs-hidden " tabindex="-1" aria-describedby="ember14469_component_36703_description" aria-hidden="true" aria-label="Modal window" role="dialog"><p class="vjs-modal-dialog-description vjs-control-text" id="ember14469_component_36703_description">Media player modal window</p><div class="vjs-modal-dialog-content" role="document"></div></div><div class="vjs-text-track-display" translate="yes" aria-live="off" aria-atomic="true"><div style="position: absolute; inset: 0px; margin: 1.5%;"></div></div></div>
+
+<!----></div>
+    </div>
+  
+      
+    </div>
+  
+    </div>
+  
+          </div>
+          <a href="/video/event/urn:li:ugcPost:7117561887935877120/?isInternal=true" id="ember14470" class="ember-view update-components-scheduled-live-content__event-link">
+            
+
+  <div class="p3">
+
+      <p class="t-12 t-bold mb1">
+          <span class="tvm__text--negative">Event ended</span>
+      </p>
+      <h2 class="t-14 t-bold mb1">
+          <span dir="ltr">3 Étapes Pour Transformer Une Faiblesse En Force Dans Ton Branding</span>
+      </h2>
+      <p class="t-12 t-normal t-black--light mb1">
+          <span><li-icon aria-hidden="true" type="video-camera" class="v-align-text-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M3 3h8v10H3a2 2 0 01-2-2V5a2 2 0 012-2zm10.5 1l-1.5.75v6.5l1.5.75H15V4z"></path>
+    </svg></li-icon> Linkedin Live</span>
+      </p>
+<!---->      <div class="display-flex align-items-center">
+<!---->          <div class="text-body-xsmall t-black--light">
+              139 attendees
+          </div>
+      </div>
+  </div>
+
+          </a>
+      </div>
+<!----><!----><!----><!----></div>
+<!---->
+<!---->
+              <!---->
+              <!---->
+
+          <!---->
+
+<!---->
+              <div id="ember14471" class="social-details-social-activity update-v2-social-activity
+    
+    ">
+  
+    <ul class="social-details-social-counts
+    
+    
+    
+    
+     social-details-social-counts--simplified-with-bottom-border
+        ">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--right-aligned
+        ">
+      <button aria-label="52 reactions on Isaël Morin’s post" class="t-black--light display-flex align-items-center social-details-social-counts__count-value
+          t-12
+          hoverable-link-text
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/8ekq8gho1ruaf8i7f86vd1ftt" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-PRAISE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/b1dl5jk88euc7e9ri50xy5qo8" alt="celebrate" data-test-reactions-icon-type="PRAISE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/cpho5fghnpme8epox8rdcds22" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="light">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">
+52          </span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--left-aligned
+        ">
+        <button aria-label="134 comments on Isaël Morin’s post" class="t-black--light social-details-social-counts__count-value
+            t-12
+            hoverable-link-text
+            " type="button">
+          <span aria-hidden="true">
+              134 comments
+          </span>
+        </button>
+    </li>
+
+    <li class="social-details-social-counts__item
+        social-details-social-counts__item--left-aligned
+        ">
+        <button id="ember14472" class="ember-view t-black--light
+            t-12
+            hoverable-link-text" aria-label="3 reposts of Isaël Morin’s post">
+          <span aria-hidden="true">
+            3 reposts
+          </span>
+        </button>
+    </li>
+
+<!----></ul>
+  <div>
+  <div id="ember14473" class="ember-view"><!----></div>
+</div>
+
+<!---->
+<!---->
+    <div class="feed-shared-social-actions feed-shared-social-action-bar social-detail-base-social-actions
+    
+    feed-shared-social-action-bar--full-width
+    feed-shared-social-action-bar--has-identity-toggle
+    
+    
+    
+    feed-shared-social-action-bar--has-social-counts
+    
+    ">
+  
+          <span class="feed-shared-social-action-bar__action-button">
+  <button aria-label="Open menu for switching identity when interacting with this post" id="ember14474" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--3 artdeco-button--tertiary ember-view align-items-center social-actions-button
+       content-admin-identity-toggle-button">    <li-icon aria-hidden="true" type="caret" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 11L3 6h10z" fill-rule="evenodd"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+    <div>
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" loading="lazy" alt="Photo of Shaun Dano" id="ember14475" class="EntityPhoto-circle-0 evi-image lazy-image ghost-person ember-view">
+<!---->    </div>
+  
+</span></button>
+
+<!----></span>
+          
+    <span class="reactions-react-button feed-shared-social-action-bar__action-button">
+<!---->
+      <button aria-pressed="false" aria-label="React Like to Isaël Morin’s post" id="ember14476" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button react-button__trigger
+          "><!---->
+<span class="artdeco-button__text">
+    
+        <div class="flex-wrap justify-center
+            artdeco-button__text align-items-center">
+              <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="thumbs-up-outline-medium">
+<!---->    
+
+    <use href="#thumbs-up-outline-medium" width="24" height="24"></use>
+</svg>
+
+            
+            <span aria-hidden="true" class="artdeco-button__text react-button__text social-action-button__text
+                ">
+              Like
+            </span>
+        </div>
+      
+</span></button>
+
+      <button aria-label="Open reactions menu" aria-expanded="false" id="ember14477" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view reactions-menu__trigger"><!---->
+<span class="artdeco-button__text">
+    
+        <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="caret-small">
+<!---->    
+
+    <use href="#caret-small" width="16" height="16"></use>
+</svg>
+
+      
+</span></button>
+    </span>
+  
+          <span tabindex="-1" id="ember14478" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view feed-shared-social-action-bar__action-button">
+    <div>
+      <button role="button" aria-label="Comment on Isaël Morin’s post" id="ember14479" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button comment-button flex-wrap ">    <li-icon aria-hidden="true" type="comment" class="artdeco-button__icon" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M7 9h10v1H7zm0 4h7v-1H7zm16-2a6.78 6.78 0 01-2.84 5.61L12 22v-4H8A7 7 0 018 4h8a7 7 0 017 7zm-2 0a5 5 0 00-5-5H8a5 5 0 000 10h6v2.28L19 15a4.79 4.79 0 002-4z"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    Comment
+</span></button>
+    </div>
+  <div id="artdeco-gen-1009" class="ember-view"><div id="ember14481" class="ember-view"></div></div>
+</span>
+          <div id="ember14482" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view feed-shared-social-action-bar__action-button">
+  <span tabindex="-1" id="ember14484" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view flex-1">
+    <button aria-expanded="false" aria-label="" id="ember14485" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view 
+        artdeco-button social-actions-button social-reshare-button flex-wrap
+        artdeco-button--muted artdeco-button--4 artdeco-button--tertiary" type="button" tabindex="0">
+        <li-icon aria-hidden="true" class="artdeco-button__icon" type="repost">
+          <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="repost-medium">
+<!---->    
+
+    <use href="#repost-medium" width="24" height="24"></use>
+</svg>
+
+        </li-icon>
+        <span class="artdeco-button__text social-action-button__text">Repost</span>
+    
+<!----></button>
+
+    <div tabindex="-1" aria-hidden="true" id="ember14486" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view social-reshare-button__share-dropdown-content"><!----></div>
+
+    <div id="artdeco-gen-1010" class="ember-view"><div id="ember14488" class="ember-view"></div></div>
+  </span>
+    <div>
+  
+      
+<!---->  
+  
+</div>
+
+<!---->
+<!----></div>
+          <div class="feed-shared-social-action-bar__action-button">
+            <span tabindex="-1" id="ember14489" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view">
+              <button class="social-actions-button send-privately-button artdeco-button artdeco-button--4 artdeco-button--tertiary flex-wrap
+    
+    artdeco-button--muted send-privately-button" aria-label="Send in a private message" type="button">
+    <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="send-privately-medium" class="rtl-flip">
+<!---->    
+
+    <use href="#send-privately-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="artdeco-button__text social-action-button__text">Send</span>
+</button>
+              <div id="artdeco-gen-1011" class="ember-view"><div id="ember14491" class="ember-view"></div></div>
+            </span>
+          </div>
+    
+</div>
+<!---->
+  
+<!---->
+
+<!---->
+<!---->
+  <span aria-live="polite" role="alert" class="visually-hidden" aria-label=""></span>
+
+<!---->
+    
+<!---->                
+
+<!---->
+    <div class="feed-shared-update-v2__comments-container display-flex flex-column
+        ">
+<!----><!---->    </div>
+
+</div>
+
+<!---->
+<!---->
+<!---->
+      
+      <div id="ember14492" class="ember-view"><!----></div>
+
+<!---->
+    
+  </div>
+
+  </div>
+</div>
+    
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        
+      <div class="full-height">
+  <div class="feed-shared-update-v2 feed-shared-update-v2--minimal-padding full-height relative
+      
+      
+      feed-shared-update-v2--e2e
+      
+      artdeco-card
+      
+      
+      " id="ember14494" data-urn="urn:li:activity:7122552317094031361">
+      <div>
+    
+      <div role="status">
+<!---->      </div>
+        
+          <h2 class="visually-hidden">
+              Feed post
+          </h2>
+            <div class="update-components-actor display-flex
+    update-components-actor--with-control-menu
+    
+    
+    ">
+    <a class="app-aware-link  relative display-flex" aria-label="See Isaël Morin’s profile video" target="_self" href="https://www.linkedin.com/in/isaelmorin/profile-video/view/urn%3Ali%3Afsd%5Fstory%3Aurn%3Ali%3Astory%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+      <div class="update-components-actor__image relative">
+        <span class="js-update-components-actor__avatar">
+          
+    <div class="ivm-image-view-model    update-components-actor__avatar">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          
+      <div class="decorated-entity-image__container
+          decorated-entity-image__image--medium
+          ivm-view-attr__img--centered EntityPhoto-circle-3  update-components-actor__avatar-image">
+        <div class="decorated-entity-image__image--medium">
+          
+      <div class="decorated-entity-image__ring
+          decorated-entity-image__ring--medium
+          ">
+        
+            <img src="https://media.licdn.com/dms/image/D4E03AQFI0Upo0kJTIw/profile-displayphoto-shrink_100_100/0/1684075753158?e=1703721600&amp;v=beta&amp;t=ddDwJLJy1OuKno-GwwlQe8pZUV-ZgYsYBSsPplL0DpA" loading="lazy" alt="Isaël Morin" id="ember14495" class="decorated-entity-image__image decorated-entity-image__image--has-ring decorated-entity-image__image--medium evi-image lazy-image ember-view">
+          
+      </div>
+  
+
+<!---->        </div>
+      </div>
+  
+    </div>
+  
+          </div>
+  
+        </span>
+      </div>
+    </a>
+
+  <div class="update-components-actor__container
+      
+      display-flex flex-grow-1">
+<!---->    <div class="update-components-actor__meta relative">
+      <a class="app-aware-link  update-components-actor__meta-link" aria-label="View: Isaël Morin • 3rd+ Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈" target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+        <span class="update-components-actor__title
+            ">
+          <span class="update-components-actor__name t-14 t-bold hoverable-link-text
+              t-black">
+              <span aria-hidden="true"><span dir="ltr">Isaël Morin</span></span><span class="visually-hidden">Isaël Morin</span>
+          </span>
+            <span class="update-components-actor__supplementary-actor-info
+                t-black--light
+                t-14 t-normal
+                ml1
+                ">
+                <span aria-hidden="true"> • 3rd+</span><span class="visually-hidden"> • 3rd+</span>
+            </span>
+        </span>
+
+          <span class="update-components-actor__description
+              t-black--light
+              
+              t-12 t-normal
+              ">
+              <span aria-hidden="true">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span><span class="visually-hidden">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span>
+          </span>
+
+      </a>
+<!---->        <a class="app-aware-link  update-components-actor__sub-description-link" aria-label="1d •   " target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+          <span class="update-components-actor__sub-description
+              t-black--light
+              t-12 t-normal
+              ">
+                <div class="update-components-text-view break-words ">
+  <span><span aria-hidden="true">1d • <li-icon aria-hidden="true" type="globe-americas" class="v-align-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 1a7 7 0 107 7 7 7 0 00-7-7zM3 8a5 5 0 011-3l.55.55A1.5 1.5 0 015 6.62v1.07a.75.75 0 00.22.53l.56.56a.75.75 0 00.53.22H7v.69a.75.75 0 00.22.53l.56.56a.75.75 0 01.22.53V13a5 5 0 01-5-5zm6.24 4.83l2-2.46a.75.75 0 00.09-.8l-.58-1.16A.76.76 0 0010 8H7v-.19a.51.51 0 01.28-.45l.38-.19a.74.74 0 01.68 0L9 7.5l.38-.7a1 1 0 00.12-.48v-.85a.78.78 0 01.21-.53l1.07-1.09a5 5 0 01-1.54 9z"></path>
+    </svg></li-icon> </span><span class="visually-hidden">1d •   </span></span>
+</div>
+          </span>
+        </a>
+    </div>
+  </div>
+
+    <button class="follow   update-components-actor__follow-button update-components-update-v2__follow-button artdeco-button
+        
+        update-components-update-v2__cta-button--next-to-control-menu
+        artdeco-button--tertiary
+        
+        
+        " aria-label="Follow" aria-live="polite" type="button">
+      <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+    <span aria-hidden="true">Follow</span>
+</button>
+
+<!----></div>
+              
+    <div class="feed-shared-control-menu display-flex
+        feed-shared-update-v2__control-menu absolute text-align-right
+        
+        ">
+<!---->
+        <div id="ember14497" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+          <button aria-expanded="false" tabindex="0" id="ember14498" class="feed-shared-control-menu__trigger artdeco-button artdeco-button--tertiary artdeco-button--muted artdeco-button--1 artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button">
+                <li-icon type="overflow-web-ios" class="artdeco-button__icon" size="medium" role="img" aria-label="Open control menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+    </svg></li-icon>
+                      
+<!----></button>
+          <div tabindex="-1" aria-hidden="true" id="ember14499" class="feed-shared-control-menu__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" aria-label="Control Menu Options"><!----></div>
+        </div>
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->    </div>
+  
+          
+<!---->
+          <!---->
+
+<!----><!---->                  <div class="feed-shared-update-v2__description-wrapper
+    
+     mr2" style="" tabindex="-1">
+      <div class="feed-shared-inline-show-more-text
+    feed-shared-update-v2__description feed-shared-inline-show-more-text--minimal-padding
+    
+    
+    
+    
+    " tabindex="-1">
+  
+        <div class="update-components-text relative update-components-update-v2__commentary " dir="ltr">
+<!---->
+  <span class="break-words
+      ">
+<!---->      <span><span dir="ltr">Et si ce que tu considères comme une faiblesse devenait ta plus grande force?<br><br>Si c’est ce que tu souhaites faire, je t’invite à me rejoindre ce midi dans mon LinkedIn Live!✌️<br><br>En 45 minutes, je t’expliquerai comment j’ai transformé mon bégaiement en force pour mon branding.<br><br>Tu apprendras 3 méthodes pour:<br><br>→ Créer un lien de proximité solide avec ta communauté<br>→ Développer un branding puissant qui gagne notre coeur<br>→ Changer ta perception de ce que tu considères comme une faiblesse<br><br>Et si t'as déjà participé à un de mes Live, tu sais que j’aurai pas mal de questions pour toi!😉<br><br>Ensemble, on fera émerger de nouvelles idées pour nous permettre de prendre un peu plus notre place dans le monde des affaires!<br><br>Alors, on se voit ce midi?<br><br>Je te mets le lien en commentaire pour ne pas le manquer!👇<br><br>J’ai hâte de t’y voir!<br><br><a href="https://www.linkedin.com/feed/hashtag/?keywords=linkedin&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7122552317094031361" data-attribute-index="0">#LinkedIn</a></span></span>
+  </span>
+</div>
+            <button role="button" class="feed-shared-inline-show-more-text__see-more-less-toggle see-more t-14 t-black--light t-normal hoverable-link-text" aria-label="see more, visually reveals content which is already detected by screen readers" type="button">
+        <span class="feed-shared-inline-show-more-text__see-more-text">…see more</span>
+      </button>
+<!----></div>
+<!---->
+    
+    
+    <div>
+      
+        
+    <div class="feed-shared-see-translation-button">
+      <button id="ember14500" class="artdeco-button artdeco-button--1 artdeco-button--tertiary ember-view"><!---->
+<span class="artdeco-button__text">
+    See translation
+</span></button>
+
+<!---->    </div>
+  
+    
+    </div>
+  
+</div>
+                  <div class="update-components-image update-components-image--single-image feed-shared-update-v2__content">
+  <div class="relative">
+    <div class="update-components-image__container" style="padding-top: 125%;">
+            <button class="update-components-image__image-link" type="button">
+                <span class="visually-hidden">
+                  Activate to view larger image,
+                </span>
+              
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          <img width="600" src="https://media.licdn.com/dms/image/D4E22AQFyRmnhgWY9Yw/feedshare-shrink_2048_1536/0/1698004416612?e=1701302400&amp;v=beta&amp;t=4tQzC39ZVWI1Mh_uRU3MGYRpyrWbw1iV9ZAEBmpYFW0" loading="lazy" height="750" alt="Image preview" id="ember14502" class="ivm-view-attr__img--centered  update-components-image__image update-components-image__image--constrained evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            </button>
+<!---->          <!---->    </div>
+    <span class="visually-hidden" id="update-components-image-ember14501" aria-hidden="true">
+          Activate to view larger image,
+    </span>
+
+<!---->
+<!---->  </div>
+
+<!---->
+<!----></div>
+<!---->
+<!---->
+              <!---->
+              <!---->
+
+          <!---->
+
+<!---->
+              <div id="ember14503" class="social-details-social-activity update-v2-social-activity
+    
+    ">
+  
+    <ul class="social-details-social-counts
+    
+    
+    
+    
+     social-details-social-counts--simplified-with-bottom-border
+        ">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--right-aligned
+        ">
+      <button aria-label="45 reactions on Isaël Morin’s post" class="t-black--light display-flex align-items-center social-details-social-counts__count-value
+          t-12
+          hoverable-link-text
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/8ekq8gho1ruaf8i7f86vd1ftt" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/cpho5fghnpme8epox8rdcds22" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-PRAISE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/b1dl5jk88euc7e9ri50xy5qo8" alt="celebrate" data-test-reactions-icon-type="PRAISE" data-test-reactions-icon-theme="light">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">
+45          </span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--left-aligned
+        ">
+        <button aria-label="5 comments on Isaël Morin’s post" class="t-black--light social-details-social-counts__count-value
+            t-12
+            hoverable-link-text
+            " type="button">
+          <span aria-hidden="true">
+              5 comments
+          </span>
+        </button>
+    </li>
+
+    <li class="social-details-social-counts__item
+        social-details-social-counts__item--left-aligned
+        ">
+        <button id="ember14504" class="ember-view t-black--light
+            t-12
+            hoverable-link-text" aria-label="1 repost of Isaël Morin’s post">
+          <span aria-hidden="true">
+            1 repost
+          </span>
+        </button>
+    </li>
+
+<!----></ul>
+  <div>
+  <div id="ember14505" class="ember-view"><!----></div>
+</div>
+
+<!---->
+<!---->
+    <div class="feed-shared-social-actions feed-shared-social-action-bar social-detail-base-social-actions
+    
+    feed-shared-social-action-bar--full-width
+    feed-shared-social-action-bar--has-identity-toggle
+    
+    
+    
+    feed-shared-social-action-bar--has-social-counts
+    
+    ">
+  
+          <span class="feed-shared-social-action-bar__action-button">
+  <button aria-label="Open menu for switching identity when interacting with this post" id="ember14506" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--3 artdeco-button--tertiary ember-view align-items-center social-actions-button
+       content-admin-identity-toggle-button">    <li-icon aria-hidden="true" type="caret" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 11L3 6h10z" fill-rule="evenodd"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+    <div>
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" loading="lazy" alt="Photo of Shaun Dano" id="ember14507" class="EntityPhoto-circle-0 evi-image lazy-image ghost-person ember-view">
+<!---->    </div>
+  
+</span></button>
+
+<!----></span>
+          
+    <span class="reactions-react-button feed-shared-social-action-bar__action-button">
+<!---->
+      <button aria-pressed="false" aria-label="React Like to Isaël Morin’s post" id="ember14508" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button react-button__trigger
+          "><!---->
+<span class="artdeco-button__text">
+    
+        <div class="flex-wrap justify-center
+            artdeco-button__text align-items-center">
+              <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="thumbs-up-outline-medium">
+<!---->    
+
+    <use href="#thumbs-up-outline-medium" width="24" height="24"></use>
+</svg>
+
+            
+            <span aria-hidden="true" class="artdeco-button__text react-button__text social-action-button__text
+                ">
+              Like
+            </span>
+        </div>
+      
+</span></button>
+
+      <button aria-label="Open reactions menu" aria-expanded="false" id="ember14509" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view reactions-menu__trigger"><!---->
+<span class="artdeco-button__text">
+    
+        <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="caret-small">
+<!---->    
+
+    <use href="#caret-small" width="16" height="16"></use>
+</svg>
+
+      
+</span></button>
+    </span>
+  
+          <span tabindex="-1" id="ember14510" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view feed-shared-social-action-bar__action-button">
+    <div>
+      <button role="button" aria-label="Comment on Isaël Morin’s post" id="ember14511" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button comment-button flex-wrap ">    <li-icon aria-hidden="true" type="comment" class="artdeco-button__icon" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M7 9h10v1H7zm0 4h7v-1H7zm16-2a6.78 6.78 0 01-2.84 5.61L12 22v-4H8A7 7 0 018 4h8a7 7 0 017 7zm-2 0a5 5 0 00-5-5H8a5 5 0 000 10h6v2.28L19 15a4.79 4.79 0 002-4z"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    Comment
+</span></button>
+    </div>
+  <div id="artdeco-gen-1012" class="ember-view"><div id="ember14513" class="ember-view"></div></div>
+</span>
+          <div id="ember14514" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view feed-shared-social-action-bar__action-button">
+  <span tabindex="-1" id="ember14516" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view flex-1">
+    <button aria-expanded="false" aria-label="" id="ember14517" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view 
+        artdeco-button social-actions-button social-reshare-button flex-wrap
+        artdeco-button--muted artdeco-button--4 artdeco-button--tertiary" type="button" tabindex="0">
+        <li-icon aria-hidden="true" class="artdeco-button__icon" type="repost">
+          <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="repost-medium">
+<!---->    
+
+    <use href="#repost-medium" width="24" height="24"></use>
+</svg>
+
+        </li-icon>
+        <span class="artdeco-button__text social-action-button__text">Repost</span>
+    
+<!----></button>
+
+    <div tabindex="-1" aria-hidden="true" id="ember14518" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view social-reshare-button__share-dropdown-content"><!----></div>
+
+    <div id="artdeco-gen-1013" class="ember-view"><div id="ember14520" class="ember-view"></div></div>
+  </span>
+    <div>
+  
+      
+<!---->  
+  
+</div>
+
+<!---->
+<!----></div>
+          <div class="feed-shared-social-action-bar__action-button">
+            <span tabindex="-1" id="ember14521" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view">
+              <button class="social-actions-button send-privately-button artdeco-button artdeco-button--4 artdeco-button--tertiary flex-wrap
+    
+    artdeco-button--muted send-privately-button" aria-label="Send in a private message" type="button">
+    <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="send-privately-medium" class="rtl-flip">
+<!---->    
+
+    <use href="#send-privately-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="artdeco-button__text social-action-button__text">Send</span>
+</button>
+              <div id="artdeco-gen-1014" class="ember-view"><div id="ember14523" class="ember-view"></div></div>
+            </span>
+          </div>
+    
+</div>
+<!---->
+  
+<!---->
+
+<!---->
+<!---->
+  <span aria-live="polite" role="alert" class="visually-hidden" aria-label=""></span>
+
+<!---->
+    
+<!---->                
+
+<!---->
+    <div class="feed-shared-update-v2__comments-container display-flex flex-column
+        ">
+<!----><!---->    </div>
+
+</div>
+
+<!---->
+            <!---->
+<!---->
+<!---->
+
+<!---->
+      
+      <div id="ember14525" class="ember-view"><!----></div>
+
+<!---->
+    
+  </div>
+
+  </div>
+</div>
+    
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        
+      <div class="full-height">
+  <div class="feed-shared-update-v2 feed-shared-update-v2--minimal-padding full-height relative
+      
+      
+      feed-shared-update-v2--e2e
+      
+      artdeco-card
+      
+      
+      " id="ember14527" data-urn="urn:li:activity:7122189923322867712">
+      <div>
+    
+      <div role="status">
+<!---->      </div>
+        
+          <h2 class="visually-hidden">
+              Feed post
+          </h2>
+            <div class="update-components-actor display-flex
+    update-components-actor--with-control-menu
+    
+    
+    ">
+    <a class="app-aware-link  relative display-flex" aria-label="See Isaël Morin’s profile video" target="_self" href="https://www.linkedin.com/in/isaelmorin/profile-video/view/urn%3Ali%3Afsd%5Fstory%3Aurn%3Ali%3Astory%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+      <div class="update-components-actor__image relative">
+        <span class="js-update-components-actor__avatar">
+          
+    <div class="ivm-image-view-model    update-components-actor__avatar">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          
+      <div class="decorated-entity-image__container
+          decorated-entity-image__image--medium
+          ivm-view-attr__img--centered EntityPhoto-circle-3  update-components-actor__avatar-image">
+        <div class="decorated-entity-image__image--medium">
+          
+      <div class="decorated-entity-image__ring
+          decorated-entity-image__ring--medium
+          ">
+        
+            <img src="https://media.licdn.com/dms/image/D4E03AQFI0Upo0kJTIw/profile-displayphoto-shrink_100_100/0/1684075753158?e=1703721600&amp;v=beta&amp;t=ddDwJLJy1OuKno-GwwlQe8pZUV-ZgYsYBSsPplL0DpA" loading="lazy" alt="Isaël Morin" id="ember14528" class="decorated-entity-image__image decorated-entity-image__image--has-ring decorated-entity-image__image--medium evi-image lazy-image ember-view">
+          
+      </div>
+  
+
+<!---->        </div>
+      </div>
+  
+    </div>
+  
+          </div>
+  
+        </span>
+      </div>
+    </a>
+
+  <div class="update-components-actor__container
+      
+      display-flex flex-grow-1">
+<!---->    <div class="update-components-actor__meta relative">
+      <a class="app-aware-link  update-components-actor__meta-link" aria-label="View: Isaël Morin • 3rd+ Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈" target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+        <span class="update-components-actor__title
+            ">
+          <span class="update-components-actor__name t-14 t-bold hoverable-link-text
+              t-black">
+              <span aria-hidden="true"><span dir="ltr">Isaël Morin</span></span><span class="visually-hidden">Isaël Morin</span>
+          </span>
+            <span class="update-components-actor__supplementary-actor-info
+                t-black--light
+                t-14 t-normal
+                ml1
+                ">
+                <span aria-hidden="true"> • 3rd+</span><span class="visually-hidden"> • 3rd+</span>
+            </span>
+        </span>
+
+          <span class="update-components-actor__description
+              t-black--light
+              
+              t-12 t-normal
+              ">
+              <span aria-hidden="true">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span><span class="visually-hidden">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span>
+          </span>
+
+      </a>
+<!---->        <a class="app-aware-link  update-components-actor__sub-description-link" aria-label="2d •   " target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+          <span class="update-components-actor__sub-description
+              t-black--light
+              t-12 t-normal
+              ">
+                <div class="update-components-text-view break-words ">
+  <span><span aria-hidden="true">2d • <li-icon aria-hidden="true" type="globe-americas" class="v-align-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 1a7 7 0 107 7 7 7 0 00-7-7zM3 8a5 5 0 011-3l.55.55A1.5 1.5 0 015 6.62v1.07a.75.75 0 00.22.53l.56.56a.75.75 0 00.53.22H7v.69a.75.75 0 00.22.53l.56.56a.75.75 0 01.22.53V13a5 5 0 01-5-5zm6.24 4.83l2-2.46a.75.75 0 00.09-.8l-.58-1.16A.76.76 0 0010 8H7v-.19a.51.51 0 01.28-.45l.38-.19a.74.74 0 01.68 0L9 7.5l.38-.7a1 1 0 00.12-.48v-.85a.78.78 0 01.21-.53l1.07-1.09a5 5 0 01-1.54 9z"></path>
+    </svg></li-icon> </span><span class="visually-hidden">2d •   </span></span>
+</div>
+          </span>
+        </a>
+    </div>
+  </div>
+
+    <button class="follow   update-components-actor__follow-button update-components-update-v2__follow-button artdeco-button
+        
+        update-components-update-v2__cta-button--next-to-control-menu
+        artdeco-button--tertiary
+        
+        
+        " aria-label="Follow" aria-live="polite" type="button">
+      <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+    <span aria-hidden="true">Follow</span>
+</button>
+
+<!----></div>
+              
+    <div class="feed-shared-control-menu display-flex
+        feed-shared-update-v2__control-menu absolute text-align-right
+        
+        ">
+<!---->
+        <div id="ember14530" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+          <button aria-expanded="false" tabindex="0" id="ember14531" class="feed-shared-control-menu__trigger artdeco-button artdeco-button--tertiary artdeco-button--muted artdeco-button--1 artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button">
+                <li-icon type="overflow-web-ios" class="artdeco-button__icon" size="medium" role="img" aria-label="Open control menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+    </svg></li-icon>
+                      
+<!----></button>
+          <div tabindex="-1" aria-hidden="true" id="ember14532" class="feed-shared-control-menu__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" aria-label="Control Menu Options"><!----></div>
+        </div>
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->    </div>
+  
+          
+<!---->
+          <!---->
+
+<!----><!---->                  <div class="feed-shared-update-v2__description-wrapper
+    
+     mr2" style="" tabindex="-1">
+      <div class="feed-shared-inline-show-more-text
+    feed-shared-update-v2__description feed-shared-inline-show-more-text--minimal-padding
+    
+    
+    
+    
+    " tabindex="-1">
+  
+        <div class="update-components-text relative update-components-update-v2__commentary " dir="ltr">
+<!---->
+  <span class="break-words
+      ">
+<!---->      <span><span dir="ltr">Vais-je me re-déguiser en ce qui fait le plus peur aux entrepreneur•e•s cette année? 😱<br><br>C’est ce que tu verras ce jeudi soir!<br><br>À notre prochaine soirée réseautage <a href="https://www.linkedin.com/company/linkedin-after-hours-quebec/" data-attribute-index="0" data-entity-type="MINI_COMPANY">LinkedIn After Hours</a> Halloween!👻<br><br>Si tu veux augmenter tes opportunités d’affaires, je te recommande cette recette:<br><br>↓<br><br>LinkedIn + Réseautage<br><br>↑<br><br>Développer ton réseau en virtuel pour ensuite aller le rencontrer en présentiel, c’est une méthode hyper efficace pour faire croître ton business!<br><br>Et là, on parle pas de réseautage old-school en veston-cravate à faire des pitchs de ventes sans s’écouter…🤮<br><br>On parle d’une soirée chill avec des entrepreneur•e•s cool qui veulent parler des vraies choses, créer de vraies connexions avec toi!😊<br><br>En plus, on sera dans une microbrasserie chaleureuse et <a href="https://www.linkedin.com/in/ACoAAAgDgsgB0keqWT0Dx847GhNpwORuqzE9G0M" data-attribute-index="2" data-entity-type="MINI_PROFILE">Mathieu</a> et moi, on offre de la pizza pour tout le monde en début de soirée!🍕<br><br>Tu veux te joindre à nous?<br>Inscris-toi aujourd’hui en cliquant sur le lien en commentaire.↓<br><br>Fais vite! Il ne reste plus beaucoup de places!<br><br>P.S.: Je vais faire imprimer mon nouveau costume aujourd'hui. Hâte de vous montrer ça jeudi!😅<br><br><a href="https://www.linkedin.com/feed/hashtag/?keywords=linkedin&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7122189923322867712" data-attribute-index="4">#LinkedIn</a> </span></span>
+  </span>
+</div>
+            <button role="button" class="feed-shared-inline-show-more-text__see-more-less-toggle see-more t-14 t-black--light t-normal hoverable-link-text" aria-label="see more, visually reveals content which is already detected by screen readers" type="button">
+        <span class="feed-shared-inline-show-more-text__see-more-text">…see more</span>
+      </button>
+<!----></div>
+<!---->
+    
+    
+    <div>
+      
+        
+    <div class="feed-shared-see-translation-button">
+      <button id="ember14533" class="artdeco-button artdeco-button--1 artdeco-button--tertiary ember-view"><!---->
+<span class="artdeco-button__text">
+    See translation
+</span></button>
+
+<!---->    </div>
+  
+    
+    </div>
+  
+</div>
+                  <div class="update-components-image update-components-image--single-image feed-shared-update-v2__content">
+  <div class="relative">
+    <div class="update-components-image__container" style="padding-top: 104.63%;">
+            <button class="update-components-image__image-link" type="button">
+                <span class="visually-hidden">
+                  Activate to view larger image,
+                </span>
+              
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          <img width="600" src="https://media.licdn.com/dms/image/D4E22AQHHL1nYjoZz9Q/feedshare-shrink_800/0/1698010694504?e=1701302400&amp;v=beta&amp;t=iTiLaq7rqBT8f0P_n-EPcRgMjjPJvYdvOoZCwa7Bfdc" loading="lazy" height="627" alt="Image preview" id="ember14535" class="ivm-view-attr__img--centered  update-components-image__image evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            </button>
+<!---->          <!---->    </div>
+    <span class="visually-hidden" id="update-components-image-ember14534" aria-hidden="true">
+          Activate to view larger image,
+    </span>
+
+<!---->
+<!---->  </div>
+
+<!---->
+<!----></div>
+<!---->
+<!---->
+              <!---->
+              <!---->
+
+          <!---->
+
+<!---->
+              <div id="ember14536" class="social-details-social-activity update-v2-social-activity
+    
+    ">
+  
+    <ul class="social-details-social-counts
+    
+    
+    
+    
+     social-details-social-counts--simplified-with-bottom-border
+        ">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--right-aligned
+        ">
+      <button aria-label="76 reactions on Isaël Morin’s post" class="t-black--light display-flex align-items-center social-details-social-counts__count-value
+          t-12
+          hoverable-link-text
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/8ekq8gho1ruaf8i7f86vd1ftt" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-ENTERTAINMENT data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/41j9d0423ck1snej32brbuuwg" alt="funny" data-test-reactions-icon-type="ENTERTAINMENT" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/cpho5fghnpme8epox8rdcds22" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="light">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">
+76          </span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--left-aligned
+        ">
+        <button aria-label="34 comments on Isaël Morin’s post" class="t-black--light social-details-social-counts__count-value
+            t-12
+            hoverable-link-text
+            " type="button">
+          <span aria-hidden="true">
+              34 comments
+          </span>
+        </button>
+    </li>
+
+<!---->
+<!----></ul>
+  <div>
+  <div id="ember14537" class="ember-view"><!----></div>
+</div>
+
+<!---->
+<!---->
+    <div class="feed-shared-social-actions feed-shared-social-action-bar social-detail-base-social-actions
+    
+    feed-shared-social-action-bar--full-width
+    feed-shared-social-action-bar--has-identity-toggle
+    
+    
+    
+    feed-shared-social-action-bar--has-social-counts
+    
+    ">
+  
+          <span class="feed-shared-social-action-bar__action-button">
+  <button aria-label="Open menu for switching identity when interacting with this post" id="ember14538" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--3 artdeco-button--tertiary ember-view align-items-center social-actions-button
+       content-admin-identity-toggle-button">    <li-icon aria-hidden="true" type="caret" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 11L3 6h10z" fill-rule="evenodd"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+    <div>
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" loading="lazy" alt="Photo of Shaun Dano" id="ember14539" class="EntityPhoto-circle-0 evi-image lazy-image ghost-person ember-view">
+<!---->    </div>
+  
+</span></button>
+
+<!----></span>
+          
+    <span class="reactions-react-button feed-shared-social-action-bar__action-button">
+<!---->
+      <button aria-pressed="false" aria-label="React Like to Isaël Morin’s post" id="ember14540" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button react-button__trigger
+          "><!---->
+<span class="artdeco-button__text">
+    
+        <div class="flex-wrap justify-center
+            artdeco-button__text align-items-center">
+              <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="thumbs-up-outline-medium">
+<!---->    
+
+    <use href="#thumbs-up-outline-medium" width="24" height="24"></use>
+</svg>
+
+            
+            <span aria-hidden="true" class="artdeco-button__text react-button__text social-action-button__text
+                ">
+              Like
+            </span>
+        </div>
+      
+</span></button>
+
+      <button aria-label="Open reactions menu" aria-expanded="false" id="ember14541" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view reactions-menu__trigger"><!---->
+<span class="artdeco-button__text">
+    
+        <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="caret-small">
+<!---->    
+
+    <use href="#caret-small" width="16" height="16"></use>
+</svg>
+
+      
+</span></button>
+    </span>
+  
+          <span tabindex="-1" id="ember14542" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view feed-shared-social-action-bar__action-button">
+    <div>
+      <button role="button" aria-label="Comment on Isaël Morin’s post" id="ember14543" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button comment-button flex-wrap ">    <li-icon aria-hidden="true" type="comment" class="artdeco-button__icon" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M7 9h10v1H7zm0 4h7v-1H7zm16-2a6.78 6.78 0 01-2.84 5.61L12 22v-4H8A7 7 0 018 4h8a7 7 0 017 7zm-2 0a5 5 0 00-5-5H8a5 5 0 000 10h6v2.28L19 15a4.79 4.79 0 002-4z"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    Comment
+</span></button>
+    </div>
+  <div id="artdeco-gen-1015" class="ember-view"><div id="ember14545" class="ember-view"></div></div>
+</span>
+          <div id="ember14546" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view feed-shared-social-action-bar__action-button">
+  <span tabindex="-1" id="ember14548" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view flex-1">
+    <button aria-expanded="false" aria-label="" id="ember14549" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view 
+        artdeco-button social-actions-button social-reshare-button flex-wrap
+        artdeco-button--muted artdeco-button--4 artdeco-button--tertiary" type="button" tabindex="0">
+        <li-icon aria-hidden="true" class="artdeco-button__icon" type="repost">
+          <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="repost-medium">
+<!---->    
+
+    <use href="#repost-medium" width="24" height="24"></use>
+</svg>
+
+        </li-icon>
+        <span class="artdeco-button__text social-action-button__text">Repost</span>
+    
+<!----></button>
+
+    <div tabindex="-1" aria-hidden="true" id="ember14550" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view social-reshare-button__share-dropdown-content"><!----></div>
+
+    <div id="artdeco-gen-1016" class="ember-view"><div id="ember14552" class="ember-view"></div></div>
+  </span>
+    <div>
+  
+      
+<!---->  
+  
+</div>
+
+<!---->
+<!----></div>
+          <div class="feed-shared-social-action-bar__action-button">
+            <span tabindex="-1" id="ember14553" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view">
+              <button class="social-actions-button send-privately-button artdeco-button artdeco-button--4 artdeco-button--tertiary flex-wrap
+    
+    artdeco-button--muted send-privately-button" aria-label="Send in a private message" type="button">
+    <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="send-privately-medium" class="rtl-flip">
+<!---->    
+
+    <use href="#send-privately-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="artdeco-button__text social-action-button__text">Send</span>
+</button>
+              <div id="artdeco-gen-1017" class="ember-view"><div id="ember14555" class="ember-view"></div></div>
+            </span>
+          </div>
+    
+</div>
+<!---->
+  
+<!---->
+
+<!---->
+<!---->
+  <span aria-live="polite" role="alert" class="visually-hidden" aria-label=""></span>
+
+<!---->
+    
+<!---->                
+
+<!---->
+    <div class="feed-shared-update-v2__comments-container display-flex flex-column
+        ">
+<!----><!---->    </div>
+
+</div>
+
+<!---->
+            <!---->
+<!---->
+<!---->
+
+<!---->
+      
+      <div id="ember14557" class="ember-view"><!----></div>
+
+<!---->
+    
+  </div>
+
+  </div>
+</div>
+    
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        
+      <div class="full-height">
+  <div class="feed-shared-update-v2 feed-shared-update-v2--minimal-padding full-height relative
+      
+      
+      feed-shared-update-v2--e2e
+      
+      artdeco-card
+      
+      
+      " id="ember14559" data-urn="urn:li:activity:7121102767355539456">
+      <div>
+    
+      <div role="status">
+<!---->      </div>
+        
+          <h2 class="visually-hidden">
+              Feed post
+          </h2>
+            <div class="update-components-actor display-flex
+    update-components-actor--with-control-menu
+    
+    
+    ">
+    <a class="app-aware-link  relative display-flex" aria-label="See Isaël Morin’s profile video" target="_self" href="https://www.linkedin.com/in/isaelmorin/profile-video/view/urn%3Ali%3Afsd%5Fstory%3Aurn%3Ali%3Astory%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+      <div class="update-components-actor__image relative">
+        <span class="js-update-components-actor__avatar">
+          
+    <div class="ivm-image-view-model    update-components-actor__avatar">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          
+      <div class="decorated-entity-image__container
+          decorated-entity-image__image--medium
+          ivm-view-attr__img--centered EntityPhoto-circle-3  update-components-actor__avatar-image">
+        <div class="decorated-entity-image__image--medium">
+          
+      <div class="decorated-entity-image__ring
+          decorated-entity-image__ring--medium
+          ">
+        
+            <img src="https://media.licdn.com/dms/image/D4E03AQFI0Upo0kJTIw/profile-displayphoto-shrink_100_100/0/1684075753158?e=1703721600&amp;v=beta&amp;t=ddDwJLJy1OuKno-GwwlQe8pZUV-ZgYsYBSsPplL0DpA" loading="lazy" alt="Isaël Morin" id="ember14560" class="decorated-entity-image__image decorated-entity-image__image--has-ring decorated-entity-image__image--medium evi-image lazy-image ember-view">
+          
+      </div>
+  
+
+<!---->        </div>
+      </div>
+  
+    </div>
+  
+          </div>
+  
+        </span>
+      </div>
+    </a>
+
+  <div class="update-components-actor__container
+      
+      display-flex flex-grow-1">
+<!---->    <div class="update-components-actor__meta relative">
+      <a class="app-aware-link  update-components-actor__meta-link" aria-label="View: Isaël Morin • 3rd+ Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈" target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+        <span class="update-components-actor__title
+            ">
+          <span class="update-components-actor__name t-14 t-bold hoverable-link-text
+              t-black">
+              <span aria-hidden="true"><span dir="ltr">Isaël Morin</span></span><span class="visually-hidden">Isaël Morin</span>
+          </span>
+            <span class="update-components-actor__supplementary-actor-info
+                t-black--light
+                t-14 t-normal
+                ml1
+                ">
+                <span aria-hidden="true"> • 3rd+</span><span class="visually-hidden"> • 3rd+</span>
+            </span>
+        </span>
+
+          <span class="update-components-actor__description
+              t-black--light
+              
+              t-12 t-normal
+              ">
+              <span aria-hidden="true">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span><span class="visually-hidden">Deviens l’entrepreneur.e ou le dirigeant•e que tlm veut suivre sur LinkedIn 😁 Vends de manière authentique au travers des 930 millions de profils LinkedIn 👊 Branding Personnel + Stratégie de Contenu et de Vente 📈</span>
+          </span>
+
+      </a>
+<!---->        <a class="app-aware-link  update-components-actor__sub-description-link" aria-label="5d •   " target="_self" href="https://www.linkedin.com/in/isaelmorin?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABTNCx8BTbIXNRHHRGMJvtGhVGQNQSwzFZo" data-test-app-aware-link="">
+          <span class="update-components-actor__sub-description
+              t-black--light
+              t-12 t-normal
+              ">
+                <div class="update-components-text-view break-words ">
+  <span><span aria-hidden="true">5d • <li-icon aria-hidden="true" type="globe-americas" class="v-align-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 1a7 7 0 107 7 7 7 0 00-7-7zM3 8a5 5 0 011-3l.55.55A1.5 1.5 0 015 6.62v1.07a.75.75 0 00.22.53l.56.56a.75.75 0 00.53.22H7v.69a.75.75 0 00.22.53l.56.56a.75.75 0 01.22.53V13a5 5 0 01-5-5zm6.24 4.83l2-2.46a.75.75 0 00.09-.8l-.58-1.16A.76.76 0 0010 8H7v-.19a.51.51 0 01.28-.45l.38-.19a.74.74 0 01.68 0L9 7.5l.38-.7a1 1 0 00.12-.48v-.85a.78.78 0 01.21-.53l1.07-1.09a5 5 0 01-1.54 9z"></path>
+    </svg></li-icon> </span><span class="visually-hidden">5d •   </span></span>
+</div>
+          </span>
+        </a>
+    </div>
+  </div>
+
+    <button class="follow   update-components-actor__follow-button update-components-update-v2__follow-button artdeco-button
+        
+        update-components-update-v2__cta-button--next-to-control-menu
+        artdeco-button--tertiary
+        
+        
+        " aria-label="Follow" aria-live="polite" type="button">
+      <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+    <span aria-hidden="true">Follow</span>
+</button>
+
+<!----></div>
+              
+    <div class="feed-shared-control-menu display-flex
+        feed-shared-update-v2__control-menu absolute text-align-right
+        
+        ">
+<!---->
+        <div id="ember14562" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+          <button aria-expanded="false" tabindex="0" id="ember14563" class="feed-shared-control-menu__trigger artdeco-button artdeco-button--tertiary artdeco-button--muted artdeco-button--1 artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button">
+                <li-icon type="overflow-web-ios" class="artdeco-button__icon" size="medium" role="img" aria-label="Open control menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+    </svg></li-icon>
+                      
+<!----></button>
+          <div tabindex="-1" aria-hidden="true" id="ember14564" class="feed-shared-control-menu__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" aria-label="Control Menu Options"><!----></div>
+        </div>
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->    </div>
+  
+          
+<!---->
+          <!---->
+
+<!----><!---->                  <div class="feed-shared-update-v2__description-wrapper
+    
+     mr2" style="" tabindex="-1">
+      <div class="feed-shared-inline-show-more-text
+    feed-shared-update-v2__description feed-shared-inline-show-more-text--minimal-padding
+    
+    
+    
+    
+    " tabindex="-1">
+  
+        <div class="update-components-text relative update-components-update-v2__commentary " dir="ltr">
+<!---->
+  <span class="break-words
+      ">
+<!---->      <span><span dir="ltr">“Je m’appelle Isaël”<br>Non, laisse-moi me reprendre...<br><br>“Je m’appelle I-I-I-sssa-ël.”<br><br>Oui, je vis avec le bégaiement.<br><br>Ce dimanche, 22 octobre, sera la Journée Internationale de Sensibilisation au Bégaiement. C’est pourquoi j’en parle aujourd’hui.<br><br>↓↓↓<br><br>Plus jeune, je percevais mon bégaiement comme un défaut. Comme si j’étais brisé.<br><br>Et qu’est-ce qu’on fait lorsqu’un truc est brisé? On essaie de le réparer.<br><br>Mais un handicap, ça ne se “répare” simplement pas. Donc, j'ai essayé de le cacher.<br><br>Longtemps, je vivais dans la peur, la frustration et l’angoisse.<br><br>Pendant 25 ans, j’ai rencontré:<br>- Des psychologues<br>- Des orthophonistes<br>- Des médecins<br>- Et un hypnotiseur<br><br>Je cherchais à guérir ce défaut.<br><br>Aujourd’hui, je réalise que tout se joue sur la perception et les croyances. (Merci à ma psychologue.)<br><br>Le problème n'est pas mon bégaiement en tant que tel.<br>Le problème vient de comment je perçois mon bégaiement.<br><br>Ça a l'air simple dit comme ça, mais travailler une croyance qu’on a eu pendant la majorité d’une vie, c’est difficile en t?$#@nac.<br><br>Encore aujourd’hui, il m’arrive d’avoir des journées vraiment difficiles. Des journées où j’ai besoin de me rappeler l’importance d’avoir de la douceur envers moi-même. <br><br>Mais bon, je crois que si je réussis à prendre ma place avec ça, je vais peut-être en inspirer d’autres à prendre la leur.<br><br>Alors, pourquoi ne pas essayer?<br><br>C'est une des croyances qui me pousse à me lever le matin même quand c'est plus dur.<br><br>Le mardi, 24 octobre prochain à midi, je vais te partager 3 manières de changer une faiblesse en force pour te branding.<br><br>Tout ça, en LinkedIn Live gratuit.<br><br>Je t’invite à cliquer sur le lien en commentaire pour t’inscrire!<br><br>Si j’ai réussi à surmonter ma peur pour prendre ma place avec cet handicap, je crois que tu peux aussi prendre la tienne, peu importe comment tu es.<br><br>Bon courage et hâte de te voir mardi midi prochain!<br><br>✌️<br><br>PS: Si personne ne te l’a dit aujourd’hui, tu mérites de prendre ta place dans ta vie et en ligne. <br><br><a href="https://www.linkedin.com/feed/hashtag/?keywords=linkedin&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7121102767355539456" data-attribute-index="0">#LinkedIn</a></span></span>
+  </span>
+</div>
+            <button role="button" class="feed-shared-inline-show-more-text__see-more-less-toggle see-more t-14 t-black--light t-normal hoverable-link-text" aria-label="see more, visually reveals content which is already detected by screen readers" type="button">
+        <span class="feed-shared-inline-show-more-text__see-more-text">…see more</span>
+      </button>
+<!----></div>
+<!---->
+    
+    
+    <div>
+      
+        
+    <div class="feed-shared-see-translation-button">
+      <button id="ember14565" class="artdeco-button artdeco-button--1 artdeco-button--tertiary ember-view"><!---->
+<span class="artdeco-button__text">
+    See translation
+</span></button>
+
+<!---->    </div>
+  
+    
+    </div>
+  
+</div>
+                  <div class="update-components-image update-components-image--single-image feed-shared-update-v2__content">
+  <div class="relative">
+    <div class="update-components-image__container" style="padding-top: 125%;">
+            <button class="update-components-image__image-link" type="button">
+                <span class="visually-hidden">
+                  Activate to view larger image,
+                </span>
+              
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper display-flex">
+<!---->          <img width="600" src="https://media.licdn.com/dms/image/D4D22AQFvW1NQ6BmH4w/feedshare-shrink_800/0/1697659528069?e=1701302400&amp;v=beta&amp;t=OCmKtjyexJOz8uRSJEFqacHJNy5n0v7aUX208vDYmdA" loading="lazy" height="750" alt="Image preview" id="ember14567" class="ivm-view-attr__img--centered  update-components-image__image update-components-image__image--constrained evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            </button>
+<!---->          <!---->    </div>
+    <span class="visually-hidden" id="update-components-image-ember14566" aria-hidden="true">
+          Activate to view larger image,
+    </span>
+
+<!---->
+<!---->  </div>
+
+<!---->
+<!----></div>
+<!---->
+<!---->
+              <!---->
+              <!---->
+
+          <!---->
+
+<!---->
+              <div id="ember14568" class="social-details-social-activity update-v2-social-activity
+    
+    ">
+  
+    <ul class="social-details-social-counts
+    
+    
+    
+    
+     social-details-social-counts--simplified-with-bottom-border
+        ">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--right-aligned
+        ">
+      <button aria-label="224 reactions on Isaël Morin’s post" class="t-black--light display-flex align-items-center social-details-social-counts__count-value
+          t-12
+          hoverable-link-text
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/8ekq8gho1ruaf8i7f86vd1ftt" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/cpho5fghnpme8epox8rdcds22" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-APPRECIATION data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/3wqhxqtk2l554o70ur3kessf1" alt="support" data-test-reactions-icon-type="APPRECIATION" data-test-reactions-icon-theme="light">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">
+224          </span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--left-aligned
+        ">
+        <button aria-label="49 comments on Isaël Morin’s post" class="t-black--light social-details-social-counts__count-value
+            t-12
+            hoverable-link-text
+            " type="button">
+          <span aria-hidden="true">
+              49 comments
+          </span>
+        </button>
+    </li>
+
+    <li class="social-details-social-counts__item
+        social-details-social-counts__item--left-aligned
+        ">
+        <button id="ember14569" class="ember-view t-black--light
+            t-12
+            hoverable-link-text" aria-label="3 reposts of Isaël Morin’s post">
+          <span aria-hidden="true">
+            3 reposts
+          </span>
+        </button>
+    </li>
+
+<!----></ul>
+  <div>
+  <div id="ember14570" class="ember-view"><!----></div>
+</div>
+
+<!---->
+<!---->
+    <div class="feed-shared-social-actions feed-shared-social-action-bar social-detail-base-social-actions
+    
+    feed-shared-social-action-bar--full-width
+    feed-shared-social-action-bar--has-identity-toggle
+    
+    
+    
+    feed-shared-social-action-bar--has-social-counts
+    
+    ">
+  
+          <span class="feed-shared-social-action-bar__action-button">
+  <button aria-label="Open menu for switching identity when interacting with this post" id="ember14571" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--3 artdeco-button--tertiary ember-view align-items-center social-actions-button
+       content-admin-identity-toggle-button">    <li-icon aria-hidden="true" type="caret" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M8 11L3 6h10z" fill-rule="evenodd"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+    <div>
+        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" loading="lazy" alt="Photo of Shaun Dano" id="ember14572" class="EntityPhoto-circle-0 evi-image lazy-image ghost-person ember-view">
+<!---->    </div>
+  
+</span></button>
+
+<!----></span>
+          
+    <span class="reactions-react-button feed-shared-social-action-bar__action-button">
+<!---->
+      <button aria-pressed="false" aria-label="React Like to Isaël Morin’s post" id="ember14573" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button react-button__trigger
+          "><!---->
+<span class="artdeco-button__text">
+    
+        <div class="flex-wrap justify-center
+            artdeco-button__text align-items-center">
+              <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="thumbs-up-outline-medium">
+<!---->    
+
+    <use href="#thumbs-up-outline-medium" width="24" height="24"></use>
+</svg>
+
+            
+            <span aria-hidden="true" class="artdeco-button__text react-button__text social-action-button__text
+                ">
+              Like
+            </span>
+        </div>
+      
+</span></button>
+
+      <button aria-label="Open reactions menu" aria-expanded="false" id="ember14574" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view reactions-menu__trigger"><!---->
+<span class="artdeco-button__text">
+    
+        <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="caret-small">
+<!---->    
+
+    <use href="#caret-small" width="16" height="16"></use>
+</svg>
+
+      
+</span></button>
+    </span>
+  
+          <span tabindex="-1" id="ember14575" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view feed-shared-social-action-bar__action-button">
+    <div>
+      <button role="button" aria-label="Comment on Isaël Morin’s post" id="ember14576" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button comment-button flex-wrap ">    <li-icon aria-hidden="true" type="comment" class="artdeco-button__icon" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M7 9h10v1H7zm0 4h7v-1H7zm16-2a6.78 6.78 0 01-2.84 5.61L12 22v-4H8A7 7 0 018 4h8a7 7 0 017 7zm-2 0a5 5 0 00-5-5H8a5 5 0 000 10h6v2.28L19 15a4.79 4.79 0 002-4z"></path>
+    </svg></li-icon>
+
+<span class="artdeco-button__text">
+    Comment
+</span></button>
+    </div>
+  <div id="artdeco-gen-1018" class="ember-view"><div id="ember14578" class="ember-view"></div></div>
+</span>
+          <div id="ember14579" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view feed-shared-social-action-bar__action-button">
+  <span tabindex="-1" id="ember14581" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view flex-1">
+    <button aria-expanded="false" aria-label="" id="ember14582" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view 
+        artdeco-button social-actions-button social-reshare-button flex-wrap
+        artdeco-button--muted artdeco-button--4 artdeco-button--tertiary" type="button" tabindex="0">
+        <li-icon aria-hidden="true" class="artdeco-button__icon" type="repost">
+          <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="repost-medium">
+<!---->    
+
+    <use href="#repost-medium" width="24" height="24"></use>
+</svg>
+
+        </li-icon>
+        <span class="artdeco-button__text social-action-button__text">Repost</span>
+    
+<!----></button>
+
+    <div tabindex="-1" aria-hidden="true" id="ember14583" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view social-reshare-button__share-dropdown-content"><!----></div>
+
+    <div id="artdeco-gen-1019" class="ember-view"><div id="ember14585" class="ember-view"></div></div>
+  </span>
+    <div>
+  
+      
+<!---->  
+  
+</div>
+
+<!---->
+<!----></div>
+          <div class="feed-shared-social-action-bar__action-button">
+            <span tabindex="-1" id="ember14586" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view">
+              <button class="social-actions-button send-privately-button artdeco-button artdeco-button--4 artdeco-button--tertiary flex-wrap
+    
+    artdeco-button--muted send-privately-button" aria-label="Send in a private message" type="button">
+    <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="send-privately-medium" class="rtl-flip">
+<!---->    
+
+    <use href="#send-privately-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="artdeco-button__text social-action-button__text">Send</span>
+</button>
+              <div id="artdeco-gen-1020" class="ember-view"><div id="ember14588" class="ember-view"></div></div>
+            </span>
+          </div>
+    
+</div>
+<!---->
+  
+<!---->
+
+<!---->
+<!---->
+  <span aria-live="polite" role="alert" class="visually-hidden" aria-label=""></span>
+
+<!---->
+    
+<!---->                
+
+<!---->
+    <div class="feed-shared-update-v2__comments-container display-flex flex-column
+        ">
+<!----><!---->    </div>
+
+</div>
+
+<!---->
+            <!---->
+<!---->
+<!---->
+
+<!---->
+      
+      <div id="ember14590" class="ember-view"><!----></div>
+
+<!---->
+    
+  </div>
+
+  </div>
+</div>
+    
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14592" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14594" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14596" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14598" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14600" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14602" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14604" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14606" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14608" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14610" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14612" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14614" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14616" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14618" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+              <li class="profile-creator-shared-feed-update__container">
+                <div>
+  
+                      
+    <div class="relative">
+      <div class="profile-creator-shared-feed-update__anchor"></div>
+        
+    
+        <div id="ember14620" class="ember-view occludable-update-hint occludable-update ">
+<!---->        </div>
+  
+
+<!---->  
+
+    </div>
+  
+                
+</div>
+
+              </li>
+        </ul>
