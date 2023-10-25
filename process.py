@@ -4,8 +4,10 @@ import openpyxl
 import re  # Import the regular expression module for pattern matching
 
 # Directory paths
-input_cleaned_file = "Cleaned data/Duvernois_clean.txt"
-output_excel_file = "Excel data/LinkedInPosts.xlsx"
+
+
+cleaned_data_folder = "Cleaned data"
+excel_data_folder = "Excel data"
 
 # Create a new Excel workbook and add a worksheet
 workbook = openpyxl.Workbook()
@@ -73,7 +75,44 @@ def extract_data_and_add_to_excel(post, row_num):
     worksheet.cell(row=row_num, column=8, value=num_comments)
     worksheet.cell(row=row_num, column=9, value=num_reposts)
 
-# Read the cleaned data file
+
+# List all cleaned files in the cleaned data folder
+cleaned_files = [f for f in os.listdir(cleaned_data_folder) if f.endswith("_clean.txt")]
+
+# Process each cleaned file
+for cleaned_file in cleaned_files:
+    input_cleaned_file = os.path.join(cleaned_data_folder, cleaned_file)
+    # Read the cleaned data file
+    with open(input_cleaned_file, "r", encoding="utf-8") as file:
+        html_data = file.read()
+
+    soup = BeautifulSoup(html_data, 'html.parser')
+    posts = soup.find_all("li", class_="profile-creator-shared-feed-update__container")
+
+    # Create a new Excel workbook and add a worksheet
+    workbook = openpyxl.Workbook()
+    worksheet = workbook.active
+
+    # Write headers to the worksheet
+    for col_num, header in enumerate(headers, start=1):
+        worksheet.cell(row=1, column=col_num, value=header)
+
+    # Initialize the row number
+    row_number = 2
+
+    # Process each post and extract data
+    for post in posts:
+        extract_data_and_add_to_excel(post, row_number)
+        row_number += 1
+
+    # Construct the output excel file name
+    output_excel_file = os.path.join(excel_data_folder, os.path.splitext(cleaned_file)[0] + "_processed.xlsx")
+
+    # Save the Excel file
+    workbook.save(output_excel_file)
+
+    print(f"Data extracted and saved to {output_excel_file}")
+
 with open(input_cleaned_file, "r", encoding="utf-8") as file:
     html_data = file.read()
 
